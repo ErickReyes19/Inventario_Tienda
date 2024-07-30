@@ -50,9 +50,9 @@ export function CardLogin() {
 				<div className="flex justify-center items-center">
 					<Image
 						className="w-auto"
-						alt="Logo principal de la tienda"
+						alt="Logo principal de Credilee"
 						height="200"
-						src="/Logo-¿.aspng"
+						src="/Logo-LadyLee.png"
 						width="200"
 					/>
 				</div>
